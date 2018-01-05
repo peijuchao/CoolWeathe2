@@ -1,11 +1,11 @@
 <lite>
-    <dbname value="Cool_Weather" />
+    <dbname value="CoolWeathe" />
     <version value="1" />
     <list>
-        <mapping class="com.example.dell.cool_weather.db.City"/>
-        <mapping class="com.example.dell.cool_weather.db.Province"/>
+        <mapping class="com.android.coolweathe.db.City"/>
+        <mapping class="com.android.coolweathe.db.Province"/>
 
-        <mapping class="com.example.dell.cool_weather.db.County"/>
+        <mapping class="com.android.coolweathe.db.County"/>
 
     </list>
 </lite>
